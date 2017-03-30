@@ -1,11 +1,62 @@
-h1{
-    font‐family:'Baloo Bhaina'; 
-    font-size:50px;
-    color:green;
+* {box-sizing: border-box;}
+
+nav{
+height:80px;
+width:960px;
+margin:0 auto;
+
 }
 
-p{
-    font-size:30px;
-    font-weight:bold;
-    
+header{
+height:600px;
+width:960px;
+margin:0 auto;
+}
+
+.a1{
+float:left;
+font-size:30px;
+padding:20px;}
+
+.a2{
+float:right;
+font-size:18px;
+padding:10px;}
+h1{
+width:960px;
+margin:0 auto;
+text-align:center;
+font-size:100px;
+}
+.headerp{
+text-align:center;}
+
+section{
+width:960px;
+height:800px;
+margin:0 auto;
+}
+
+article{
+height:300px;
+float:left;
+padding: 10px;
+}
+img{
+
+height:300px;
+width:300px;
+
+}
+
+.sectionp{
+font-size:18px;
+}
+
+footer{
+text-align:center;
+height:60px;
+font-size:18px;
+width:960px;
+margin:0 auto;
 }
