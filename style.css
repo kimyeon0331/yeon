@@ -5,7 +5,7 @@ body{margin:0;
 
 a:visited, a:link {
   text-decoration: none;
-  color: #4C4C4C;
+  color: #747474;
 }
 .container {
   width: 960px;
@@ -30,7 +30,7 @@ nav::after {
 
 .logo{
 float:left;
-font-size:25px;
+font-size:20px;
 margin:0;
 font-family: 'Pacifico';}
 
@@ -47,7 +47,7 @@ float:left;
   
 .a2{
  list-style-type: none;
-font-size:25px;
+font-size:20px;
 margin:0;
 font-family: 'hanna';
 }
