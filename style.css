@@ -66,6 +66,7 @@ height:600px;
 margin:0 auto;
  background-image: url("./back_.jpg");
   background-size: cover;
+  background-position: center top;
   color:white;
   padding-top: 80px;
 }
