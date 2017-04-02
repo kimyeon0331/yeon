@@ -14,7 +14,8 @@ a:visited, a:link {
 
 
 nav{
-width:960px;
+width:100%;
+position:fixed;
 margin: 0 auto;
 height:80px;
 line-height: 80px;
@@ -62,11 +63,12 @@ ul.a2 > li {
 
 header{
 height:600px;
-width:960px;
+
 margin:0 auto;
- background-image: url("./back.jpg");
+ background-image: url("./back_.jpg");
   background-size: cover;
   color:white;
+  padding-top: 80px;
 }
 
 
